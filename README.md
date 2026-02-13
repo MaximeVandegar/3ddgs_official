@@ -14,11 +14,11 @@
 - pip install tqdm
 - pip install opencv-python
 - pip install joblib
-
-
-- MAYBE NEEDED; FOR NOW I DON4T RUN IT
 - conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
 - pip install ninja
+- then check this: https://chatgpt.com/c/698e87c4-f2c8-838c-a273-bb7a81daf3db
+  - GO TO EACH SUBMODULE & CALL pip install . --no-build-isolation -v
+  - IF ISSUE; check gpt link
 
 
 
