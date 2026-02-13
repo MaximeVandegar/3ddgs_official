@@ -27,4 +27,7 @@
 
 - SET CUDA_VISIBLE_DEVICES=1
 - python train.py -s F:\CARVATAR\flowers
-
+ 
+### their data
+- SET CUDA_VISIBLE_DEVICES=1
+- python train.py -s F:\CARVATAR\scan01_format_3dgs_official
