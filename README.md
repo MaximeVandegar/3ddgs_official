@@ -18,6 +18,7 @@
 
 - MAYBE NEEDED; FOR NOW I DON4T RUN IT
 - conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
+- pip install ninja
 
 
 
