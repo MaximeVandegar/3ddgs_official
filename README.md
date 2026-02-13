@@ -31,3 +31,4 @@
 ### their data
 - SET CUDA_VISIBLE_DEVICES=1
 - python train.py -s F:\CARVATAR\scan01_format_3dgs_official
+- python train.py -s F:\CARVATAR\scan01_format_3dgs_official --data_device cpu # SUPER IMPORTANT WHEN MANY IMAGES. OTHERWISE FOR SOME REASON VERY SLOW
