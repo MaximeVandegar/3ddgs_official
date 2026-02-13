@@ -20,7 +20,11 @@
   - GO TO EACH SUBMODULE & CALL pip install . --no-build-isolation -v
   - IF ISSUE; check gpt link
 
-
-
 ## Activate
 - conda activate F:\conda_envs\3dgs_official
+
+## Training
+
+- SET CUDA_VISIBLE_DEVICES=1
+- python train.py -s F:\CARVATAR\flowers
+
