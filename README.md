@@ -36,7 +36,7 @@
 ##
 - conda activate F:\conda_envs\3dgs_official
 - SET CUDA_VISIBLE_DEVICES=1
-- python train_alpha.py -s F:\CARVATAR\scan01_format_3dgs_official --data_device cpu --model_path F:\CARVATAR\scan01_output
+- python train_alpha.py -s F:\CARVATAR\scan01_format_3dgs_official --data_device cpu --model_path F:\CARVATAR\scan01_output --resolution 1
 -
 -
 -
